@@ -25,8 +25,8 @@ Two datasets are provided for analysis:
 
 ## 🧩 Steps Performed 
 
-**Part 1 – Exploratory Analysis
+1. **Exploratory Analysis**
 
-**Part 2 – Collection Performance Metrics
+2. **Collection Performance Metrics**
 
-**Part 3 – Modeling & Strategy
+3. **Modeling & Strategy**
